@@ -1,0 +1,37 @@
+_repo: Iltapuhteeksi-IKokoelma-pieni--kertomuksia_26141
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ivalo, Santeri
+    aliases:
+    - Ingman, Santeri
+    - Ivalo, Herman Aleksander
+    birthdate: 1866
+    deathdate: 1937
+    gutenberg_agent_id: '31820'
+    url: http://www.gutenberg.org/2009/agents/31820
+    wikipedia: http://fi.wikipedia.org/wiki/Santeri_Ivalo
+description: ''
+gutenberg_issued: '2008-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26141'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PH'
+tableOfContents: Puolukassa -- Rajoilla -- Koulutyttö -- Vanha juttu -- Ruiskahvi
+  -- Hännätön vasikka -- Hienoa rakkautta -- Tulo kotiin -- Itkuja -- Mesenaatti --
+  Kunnia olkoon -- Viides päivä heinäkuuta -- Sillalla -- Nuku rauhassa -- Juopunut
+  -- Huoneen haussa -- Siltä väliltä -- Viimeisessä tingassa -- Ystäväni ulkolainen
+  -- Kummituksia -- Huonemies -- Vielä siihen mitä rakkautta...! -- Kuun pimeneminen
+  -- Matalassa.
+title: 'Iltapuhteeksi 1: Kokoelma pieniä kertomuksia'
+url: http://www.gutenberg.org/ebooks/26141
